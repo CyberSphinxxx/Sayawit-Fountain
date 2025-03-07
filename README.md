@@ -28,6 +28,19 @@ To view and edit this project in Visual Studio Code, we recommend using the **Be
 
 ---
 
+## Overview
+
+![Screenshot 2025-03-07 221112](https://github.com/user-attachments/assets/2c5aa115-d917-4281-9135-474a4e226200)
+
+## Characters
+
+![Screenshot 2025-03-07 221258](https://github.com/user-attachments/assets/b0a2e844-fe91-4c98-b97b-d522d371c5a4)
+
+## Scenes
+
+![Screenshot 2025-03-07 221322](https://github.com/user-attachments/assets/d94726bd-ec59-477a-b229-9aada0500008)
+
+
 ## Contributors
 
 - **John Lemar Gonzales**  
